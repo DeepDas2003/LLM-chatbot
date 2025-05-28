@@ -1,6 +1,4 @@
 import os
-from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain.chains import LLMChain
 import google.generativeai as genai
 import streamlit as st
 import playsound
