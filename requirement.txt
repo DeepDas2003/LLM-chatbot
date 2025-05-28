@@ -1,0 +1,6 @@
+google-generativeai
+streamlit
+playsound
+gtts
+langchain
+SpeechRecognition
